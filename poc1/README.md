@@ -1,6 +1,5 @@
-Adobe Flash Player SecureSocket  Use-After-Free Remote Code Execution Vulnerability
 
-There is a  Use-After-Free  Vulnerability in Adobe Flash Player which could lead to Remote Code Execution Vulnerability.
+Adobe Flash Player SecureSocket  Use-After-Free Remote Code Execution Vulnerability
 
 Tested Platforms: 
 
