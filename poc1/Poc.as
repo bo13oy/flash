@@ -11,8 +11,8 @@ package
 	{
 	      public function Poc()
 	      {
-			var socket:SecureSocket =  new SecureSocket();
-			socket.connect(undefined,undefined);
+		var socket:SecureSocket =  new SecureSocket();
+		socket.connect(undefined,undefined);
 	      }
 	}
 }
